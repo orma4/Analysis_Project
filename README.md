@@ -6,7 +6,9 @@ A PC with windows and working Python 3 environment is needed to run the software
 
 # Installing
 
-
+**1.**Download Python 3.7 from the website: https://www.python.org/
+**2.**Download PyCharm Community Edition 2018.2.4 x64 from the website: https://www.jetbrains.com/pycharm/
+**3.**Open Pycharm and run [falseposition.py](falseposition.py)
 
 # Running the tests
 
@@ -24,12 +26,9 @@ A PC with windows and working Python 3 environment is needed to run the software
 # Built With
 
 JetBrains PyCharm Community Edition 2018.2.4 x64 using Python 3.7
- 
-
-# Contributing
 
 # Versioning
-
+This is currently our final version of the software.
  
 # Authors
 * **Avi Ergaz**
@@ -39,48 +38,6 @@ JetBrains PyCharm Community Edition 2018.2.4 x64 using Python 3.7
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ![alt text]()
