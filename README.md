@@ -6,22 +6,14 @@ A PC with windows and working Python 3 environment is needed to run the software
 
 # Installing
 
-**1.**Download Python 3.7 from the website: https://www.python.org/
-**2.**Download PyCharm Community Edition 2018.2.4 x64 from the website: https://www.jetbrains.com/pycharm/
-**3.**Open Pycharm and run [falseposition.py](falseposition.py)
+1. Download Python 3.7 from the website: https://www.python.org/
+2. Download PyCharm Community Edition 2018.2.4 x64 from the website: https://www.jetbrains.com/pycharm/
+3. Open Pycharm and run [falseposition.py](falseposition.py)
 
 # Running the tests
-
-
-# Break down into end to end tests
-
-
-
-# And coding style tests
-
-
-# Deployment
-
+Our tests were made on several functions, we analyzed the results and the software behaviour according to those tests.
+The goal of the tests is to check the behaviour of the false position algorithm on different functions and to make sure it's correctly done and returns the desired root if possible.
+More detailed tests proccess is shown at the project file
 
 # Built With
 
