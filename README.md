@@ -10,7 +10,7 @@
 
 # Running the tests
 
-Explain how to run the automated tests for this system
+
 # Break down into end to end tests
 
 
@@ -31,10 +31,10 @@ Explain how to run the automated tests for this system
 
  
 # Authors
-**Avi Ergaz**
+* **Avi Ergaz**
+* **Or Maman**
+* **Sami Saliba**
 # License
-See also the list of contributors who participated in this project.
-License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 Acknowledgments
