@@ -1,4 +1,4 @@
-![alt text](https://gyazo.com/271942c9869b57a149d420eaef893b01)
+![alt text](https://i.gyazo.com/271942c9869b57a149d420eaef893b01.png)
 
 # False position method project
 Our project demonstrates the False position method, which is a method of finding roots of a given function. We will present the algorithm of the method and explain the needed steps to get the desired result.
